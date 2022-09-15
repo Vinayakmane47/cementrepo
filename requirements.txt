@@ -27,6 +27,7 @@ pyparsing
 pyrsistent
 python-dateutil
 pytz
+pytest
 PyYAML
 regexp
 scikit-learn
